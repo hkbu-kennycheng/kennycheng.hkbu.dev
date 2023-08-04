@@ -1,4 +1,4 @@
-# Kenny Cheng
+# Kenny, Cheng Kam Kong
 
 ![GitHub followers](https://img.shields.io/github/followers/hkbu-kennycheng?style=social)
 
