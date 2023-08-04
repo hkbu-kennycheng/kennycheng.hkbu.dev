@@ -8,10 +8,10 @@ Welcome to my personal webpage! Here are some of my projects and works that you 
 
 - [COMP Kubernetes](https://kubernetes.hkbu.dev/), A Kubernetes cluster for teaching and learning in COMP
 - [COMP GitLab](https://gitlab.hkbu.app/), A GitLab instance for teaching and learning in COMP without any restrictions
-- [url2png](https://github.com/hkbu-kennycheng/url2png-express), A simple web service to generate a screenshot of a website
-- [mathjax2svg](https://github.com/hkbu-kennycheng/mathjax2svg-express), A simple web service to convert MathJax to SVG
 - [COMP Mailer](https://github.com/Department-of-Computer-Science-HKBU/comp-mailer) (access required) A simple SMTP server for sending emails in COMP Kubernetes
 - [COMP OAuth](https://github.com/Department-of-Computer-Science-HKBU/oauth.hkbu.dev) (access required), a simple OAuth service for COMP
+- [mathjax2svg](https://github.com/hkbu-kennycheng/mathjax2svg-express), A simple web service to convert MathJax to SVG
+- [url2png](https://github.com/hkbu-kennycheng/url2png-express), A simple web service to generate a screenshot of a website
 
 ## Teaching materials
 
